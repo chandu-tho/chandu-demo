@@ -1,3 +1,3 @@
 # chandu-demo
 This is my first  git repository
-Author chandu thota
+Author- chandu thota
